@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0203-remove-linked-list-elements) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
