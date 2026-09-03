@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
