@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0136-single-number) |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
