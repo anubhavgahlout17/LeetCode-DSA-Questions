@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
