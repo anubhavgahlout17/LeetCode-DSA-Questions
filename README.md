@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0258-add-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
