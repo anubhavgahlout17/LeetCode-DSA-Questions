@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
