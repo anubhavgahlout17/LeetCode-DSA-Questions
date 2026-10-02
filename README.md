@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1732-find-the-highest-altitude](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/anubhavgahlout17/LeetCode-DSA-Questions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
